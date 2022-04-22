@@ -4,6 +4,7 @@ CS4287 Assignment 1 - MLP
 1. Objectives
  To build a “traditional” Machine Learning (ML) pipeline using a “traditional” MuiltLayer
 Perceptron (MLP) for classification.
+
  Explore the impact of varying hyperparameter(s).
 
 
@@ -24,13 +25,18 @@ a. Include graph(s) if opting for a top grade.
 
 Submit a Jupyter notebook with the code where:
  The book is named CS4287-Prj1-ID1-ID2
+
 o Where ID1 and ID2 are the student id numbers of the team members
+
  The first line in the book is a comment with names and ID numbers of the team members
-Page 2
+
+
  The second line in the book should be a comment stating if the code executes to the end without
 an error.
+
  The third line in the book should be a comment with a link to the original source where you
 opted to reuse an existing implementation.
+
  Every critical line of code MUST be commented by YOU. To demonstrate a deep
 understanding of that code.
 
@@ -44,7 +50,6 @@ Metaportals that list open data repositories
  Data Portals
  Open Data Monitor
  Quandl
-Other
  Wikipedia’s listing of data repositories
 
 
